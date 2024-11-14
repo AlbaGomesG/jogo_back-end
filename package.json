@@ -1,0 +1,16 @@
+{
+  "name": "jogo_back-end",
+  "version": "1.0.0",
+  "description": "\"projeto jogo back-end\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "SENAI",
+    "Back-End",
+    "DEV"
+  ],
+  "author": "Giovanna Alba Gomes",
+  "license": "MIT"
+}
